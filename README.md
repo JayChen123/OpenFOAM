@@ -27,4 +27,8 @@ OpenFOAM 共享视频 http://pan.baidu.com/s/1kVLKKlT
 
 Latex 共享视频 链接:http://pan.baidu.com/s/1nvcwik5 密码:ymvh
 
-* 如果喜欢我的课程，资料中有我的支付宝二维码，你懂得
+* 后续课程计划
+
+会整理关于Python高级编程（基础入门视频很多，请出门左转），数据分析与挖掘，机器学习等资料与视频
+
+*如果喜欢我的课程，资料中有我的支付宝二维码，你懂得*
