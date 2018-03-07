@@ -1,4 +1,10 @@
 # 个人课程
+
+联系方式：
+QQ：971516583
+Email：cj194832@163.com
+博客：https://vinctchan.github.io
+
 OpenFOAM计算流体力学的一些入门课程，之前因为一些原因没有更新，等合适的时间我会继续更新视频和资料
 
 * 课程录制的原因
@@ -17,18 +23,20 @@ http://i.youku.com/blackedu
 尽力回复你们
 
 
-* 高清视频下载
+* 高清视频下载(已不在提供免费下载)
 
-OpenFOAM 共享文档 http://pan.baidu.com/s/1qXQeaRU
+OpenFOAM 共享文档 ~~http://pan.baidu.com/s/1qXQeaRU~~
 
-OpenFOAM 资料大全 链接:http://pan.baidu.com/s/1boVUkB9 密码:awg9
+OpenFOAM 资料大全 ~~链接:http://pan.baidu.com/s/1boVUkB9 密码:awg9~~
 
-OpenFOAM 共享视频 http://pan.baidu.com/s/1kVLKKlT 
+OpenFOAM 共享视频 ~~http://pan.baidu.com/s/1kVLKKlT~~
 
-Latex 共享视频 链接:http://pan.baidu.com/s/1nvcwik5 密码:ymvh
+Latex 共享视频 ~~链接:http://pan.baidu.com/s/1nvcwik5 密码:ymvh~~
 
 * 后续课程计划
 
 会整理关于Python高级编程（基础入门视频很多，请出门左转），数据分析与挖掘，机器学习等资料与视频
 
 *如果喜欢我的课程，资料中有我的支付宝二维码，你懂得*
+
+
