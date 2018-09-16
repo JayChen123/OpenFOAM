@@ -6,7 +6,7 @@ QQ：971516583
 
 Email：cj194832@163.com
 
-博客：https://vinctchan.github.io
+博客：https://blackedu.vip
 
 OpenFOAM计算流体力学的一些入门课程，之前因为一些原因没有更新，等合适的时间我会继续更新视频和资料
 
@@ -27,6 +27,7 @@ http://i.youku.com/blackedu
 
 
 * 高清视频下载(已不在提供免费下载)
+更新资料说明： http://www.blackedu.vip/189/openfoam%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B%E5%8F%8A%E8%B5%84%E6%96%99/
 
 OpenFOAM 共享文档 ~~http://pan.baidu.com/s/1qXQeaRU~~
 
