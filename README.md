@@ -26,11 +26,11 @@ http://i.youku.com/blackedu
 尽力回复你们
 
 
-* 高清视频下载(已不在提供免费下载)
+* 高清视频下载
 
 更新资料说明： http://www.blackedu.vip/189/openfoam%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B%E5%8F%8A%E8%B5%84%E6%96%99/
 
-
+链接: https://pan.baidu.com/s/1Ect42XbDVqVL_yxacFzFcg 提取码: q4n6 
 
 * 后续课程计划
 
