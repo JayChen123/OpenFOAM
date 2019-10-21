@@ -5,6 +5,8 @@
 目前提供免费下载链接：
 [百度网盘链接](https://pan.baidu.com/s/1ZdFREVN3VeO_Nf9Yiuf5Jw) 提取码: 2fn3 
 
+说明：一个人的力量是有限的，希望看过此系列教程的同学可以自行录制自己专业领域的教程，然后更新到此github上，以供更多人免费下载使用。目前文档的[浏览地址](http://class.blackedu.vip/)
+
 ### LaTeX基本使用
 目前提供免费下载链接：
 [百度网盘链接](https://pan.baidu.com/s/1Jhvh6A2jXWWxk5Bl6Nr51g) 提取码: qx5h 
